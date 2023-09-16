@@ -2,6 +2,8 @@
 
 This repository contains scripts to train an action recognition model on videos and a Flask application to make predictions using the trained model.
 
+You can view some output videos at - https://shorturl.at/kuvOT
+
 Ensure all dependencies are installed before executing the scripts.
 
 ```bash
