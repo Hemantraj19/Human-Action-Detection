@@ -2,6 +2,12 @@
 
 This repository contains scripts to train an action recognition model on videos and a Flask application to make predictions using the trained model.
 
+Ensure all dependencies are installed before executing the scripts.
+
+```bash
+$ pip install -r requirements.txt
+```
+
 ## Files Description:
 
 1. **app.py**: A Flask application to upload videos, predict actions using pre-trained models, and display the processed video with predicted actions.
@@ -42,12 +48,6 @@ Upload a video and click the 'Predict' button. The application will process the 
 - MoviePy
 - scikit-learn
 - Keras
-
-Ensure all dependencies are installed before executing the scripts.
-
-```bash
-$ pip install -r requirements.txt
-```
 
 ---
 
