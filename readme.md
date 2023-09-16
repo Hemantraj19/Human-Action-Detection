@@ -4,6 +4,8 @@ This repository contains scripts to train an action recognition model on videos 
 
 You can view some output videos at - https://shorturl.at/kuvOT
 
+![Preview Img](https://github.com/Hemantraj19/Human-Action-Detection/blob/main/Screenshot%202023-09-16%20233938.png)
+
 Ensure all dependencies are installed before executing the scripts.
 
 ```bash
