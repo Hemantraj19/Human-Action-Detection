@@ -45,6 +45,10 @@ Upload a video and click the 'Predict' button. The application will process the 
 
 Ensure all dependencies are installed before executing the scripts.
 
+```bash
+$ pip install -r requirements.txt
+```
+
 ---
 
 **Note**: The dataset used for training the model in `train.py` is expected to be in the `/content/UCF-101` directory. Adjust the paths accordingly based on your dataset location. Also, adjust the actions according to the need , you can add as many actions you need but it should be present in UCF Dataset.
